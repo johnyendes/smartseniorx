@@ -1,0 +1,16 @@
+{
+  "name": "smartseniorx",
+  "version": "1.0.0",
+  "description": "SmartSeniorX — Retirement Intelligence Platform",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}

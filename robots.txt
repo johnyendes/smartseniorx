@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Priority pages for crawlers
+# Home
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.smartseniorx.com/sitemap.xml
+
+# Block any future admin or API paths from indexing
+Disallow: /api/
+Disallow: /admin/
